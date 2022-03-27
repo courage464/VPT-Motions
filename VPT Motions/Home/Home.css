@@ -1,0 +1,54 @@
+body {
+    background-image: url("Page Image/lantern-gb656686be_1920.jpg");
+    background-size: cover;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: black;
+    font-weight: lighter;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    color: black;
+    text-align: center;
+    padding: 19%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+footer,
+p,
+a {
+    text-decoration: none;
+    color: black;
+}
+
+video {
+    display: block;
+    margin: auto;
+}

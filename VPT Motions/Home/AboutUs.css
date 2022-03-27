@@ -1,0 +1,54 @@
+body {
+    background-image: url("Page Image/VPT.png");
+    background-size: cover;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: ghostwhite;
+    font-weight: lighter;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    color: ghostwhite;
+    text-align: center;
+    padding: 19%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+footer,
+p,
+a {
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+video {
+    display: block;
+    margin: auto;
+}
